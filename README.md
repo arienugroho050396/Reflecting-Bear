@@ -3,7 +3,7 @@
 ## Background
 Panda Bear is confused. He is trying to work out how things should look when reflected in a mirror, but is getting the wrong results.
 As is the way with bears, his coordinate system is not orthonormal: so what he thinks is the direction perpendicular to the mirror isn't actually the direction the mirror reflects in.
-Help Bear write a code that will do his matrix calculations properly! 
+Help Bear write a code that will do his matrix calculations properly!  
 
 ## Instructions
 In this assignment you will write a Python function that will produce a transformation matrix for reflecting vectors in an arbitrarily angled mirror.
