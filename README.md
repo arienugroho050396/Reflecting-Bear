@@ -37,3 +37,6 @@ gsBasis(A)
 ```
 These, respectively, take the inverse of a matrix, give the transpose of a matrix, and produce a matrix of orthonormal column vectors given a general matrix of column vectors - i.e. perform the Gram-Schmidt process.
 This exercise will require you to combine some of these functions.
+
+## Output
+![This is an image](https://github.com/arienugroho050396/Reflecting-Bear/blob/main/bear.png)
