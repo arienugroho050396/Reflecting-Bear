@@ -1,5 +1,5 @@
 # Reflecting-Bear
-```I will share an example of an assignment that I did when I was in the Machine Learning with TensorFlow bootcamp organized by Google x Digital Talent Scholarship 2022. The topic discussed was Mathematical Linear Agreba.```
+> I will share an example of an assignment that I did when I was in the Machine Learning with TensorFlow bootcamp organized by **Google x Digital Talent Scholarship 2022**. The topic discussed was Mathematical Linear Agreba.
 
 ## Background
 Panda Bear is confused. He is trying to work out how things should look when reflected in a mirror, but is getting the wrong results.
