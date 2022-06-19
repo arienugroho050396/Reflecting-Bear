@@ -1,4 +1,4 @@
-# Reflecting-Bear
+![This is an image](https://github.com/arienugroho050396/Reflecting-Bear/blob/main/header.png)
 > I will share an example of an assignment that I did when I was in the Machine Learning with TensorFlow bootcamp organized by **Google x Digital Talent Scholarship 2022**. The topic discussed was Mathematical Linear Agreba.
 
 ## Background
