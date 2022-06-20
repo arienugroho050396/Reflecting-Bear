@@ -1,6 +1,6 @@
 ![This is an image](https://github.com/arienugroho050396/Reflecting-Bear/blob/main/header.png)
 > I will share an example of an assignment that I did when I was in the Machine Learning with TensorFlow bootcamp organized by **Google x Digital Talent Scholarship 2022**. The topic discussed was Mathematical Linear Agreba.
-
+ 
 ## Background
 Panda Bear is confused. He is trying to work out how things should look when reflected in a mirror, but is getting the wrong results.
 As is the way with bears, his coordinate system is not orthonormal: so what he thinks is the direction perpendicular to the mirror isn't actually the direction the mirror reflects in.
@@ -10,7 +10,7 @@ Help Bear write a code that will do his matrix calculations properly!
 In this assignment you will write a Python function that will produce a transformation matrix for reflecting vectors in an arbitrarily angled mirror.
 
 Building on the last assingment, where you wrote a code to construct an orthonormal basis that spans a set of input vectors, here you will take a matrix which takes simple form in that basis, and transform it into our starting basis.
-
+ 
 You will write a function that will construct this matrix.
 This assessment is not conceptually complicated, but will build and test your ability to express mathematical ideas in code.
 As such, your final code submission will be relatively short, but you will receive less structure on how to write it.
